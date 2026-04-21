@@ -1,0 +1,24 @@
+{
+  "name": "frontend-tabaku",
+  "version": "1.0.0",
+  "description": "Primo progetto node con JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabakualessandro-gif/frontend-tabaku.git"
+  },
+  "keywords": [],
+  "author": "alessandro tabaku",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tabakualessandro-gif/frontend-tabaku/issues"
+  },
+  "homepage": "https://github.com/tabakualessandro-gif/frontend-tabaku#readme",
+  "volta": {
+    "node": "24.15.0"
+  }
+}
